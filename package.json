@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "settings.js",
   "scripts": {
-    "start": "node node_modules/node-red/red.js -s settings.js"
+     "start": "node node_modules/node-red/red.js -s settings.js"
   },
   "dependencies": {
     "node-red": "^4.0.0",
