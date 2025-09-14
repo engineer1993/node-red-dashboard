@@ -1,5 +1,6 @@
 module.exports = {
     uiPort: process.env.PORT || 1880,
+bindAddress: '0.0.0.0',
     httpAdminRoot: '/',
     httpNodeRoot: '/api',
     userDir: './user',
